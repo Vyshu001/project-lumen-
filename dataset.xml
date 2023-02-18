@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<resultset statement="select * from mysqlDB.eventdataset
+LIMIT 0, 1000
+"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<row>
+		<field name="event_id">12</field>
+		<field name="event_name">23</field>
+		<field name="eventdate">2023-02-23</field>
+		<field name="organisermail">acb@a</field>
+		<field name="phone number">345</field>
+		<field name="eventtype">abc</field>
+		<field name="loc">abcd</field>
+		<field name="eventstatus">assd</field>
+		<field name="maxseats">345</field>
+	</row>
+</resultset>
